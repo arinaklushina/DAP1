@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GameOfLife
+comment1.params=n
+comment1.target=GameOfLife(int)
+comment2.params=i\ j
+comment2.target=int\ calculateAliveNeighbors(int,\ int)
+comment3.params=i\ j
+comment3.target=int\ nextState(int,\ int)
+comment4.params=
+comment4.target=void\ nextGeneration()
+comment5.params=n
+comment5.target=void\ futureGeneration(int)
+comment6.params=
+comment6.target=void\ show()
+numComments=7
