@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WerteZahlen
+comment1.params=sortedArr
+comment1.target=int\ sumUpNegatives(int[])
+comment2.params=sortedArr
+comment2.target=int\ countNegatives(int[])
+comment3.params=
+comment3.target=int[]\ inputArray()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

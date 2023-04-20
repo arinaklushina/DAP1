@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SearchMax
+comment1.params=arr
+comment1.target=int\ searchMax(int[])
+comment2.params=
+comment2.target=int[]\ inputArray()
+comment3.params=
+comment3.target=void\ main()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Harshad
+comment1.params=num
+comment1.target=int\ digitSum(int)
+comment2.params=x
+comment2.target=void\ isHarshad(int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
