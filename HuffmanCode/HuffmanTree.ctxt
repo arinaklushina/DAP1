@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=HuffmanTree
+comment1.params=
+comment1.target=HuffmanTree()
+comment2.params=t
+comment2.target=HuffmanTree(HuffmanTriple)
+comment3.params=lc\ rc
+comment3.target=HuffmanTree(HuffmanTree,\ HuffmanTree)
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=boolean\ isLeaf()
+comment6.params=
+comment6.target=HuffmanTriple\ getContent()
+comment7.params=other
+comment7.target=int\ compareTo(HuffmanTree)
+comment8.params=
+comment8.target=void\ generateCodes()
+comment9.params=
+comment9.target=void\ showCodes()
+numComments=10
