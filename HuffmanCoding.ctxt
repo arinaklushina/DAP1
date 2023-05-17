@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HuffmanCoding
+comment1.params=input
+comment1.target=HuffmanCoding(HuffmanTriple[])
+comment2.params=input
+comment2.target=void\ initializeTrees(HuffmanTriple[])
+comment3.params=start
+comment3.target=void\ insertionSort(int)
+comment4.params=start
+comment4.target=void\ shiftTrees(int)
+comment5.params=
+comment5.target=void\ buildTree()
+comment6.params=
+comment6.target=void\ showCodeTable()
+numComments=7
